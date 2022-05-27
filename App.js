@@ -79,9 +79,10 @@ const styles = StyleSheet.create({
         color: '#fff',
     },
     thumbnail: {
-        width: 300,
-        height: 300,
+        width: 164,
+        height: 164,
         resizeMode: "contain",
+        borderRadius: 130,
     }
 });
 
